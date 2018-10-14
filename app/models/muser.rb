@@ -1,0 +1,2 @@
+class Muser < ApplicationRecord
+end
